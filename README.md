@@ -165,7 +165,7 @@ A continuacion se describen los pasos para utilizar las principales funcionalida
 2. Selecciona la reserva que deseas cancelar.
 3. La reserva se cancela exitosamente y se muestra un mensaje de confirmacion.
 
-### Mostrar Reservas
+### Mostrar Informes
 
 1. Selecciona la opcion "Mostrar Informes".
 2. Selecciona el Informe que deseas ver.
